@@ -1,4 +1,4 @@
-**🍳 Cooker Scratch Detection using Deep Learning**
+## **🍳 Cooker Scratch Detection using Deep Learning**
 
 This project implements a **Deep Learning model** using **Keras/TensorFlow** to detect and classify **surface defects (Scratches)** on metal cooker surfaces. The aim is to automate defect detection in manufacturing and quality assurance.  
 
